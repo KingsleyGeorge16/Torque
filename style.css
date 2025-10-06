@@ -94,7 +94,7 @@ header{
 }
 
 .nav-link{
-    font-size: 0.88rem;
+    font-size: 1.1rem;
     color: var(--text-alter-color);
     font-family: var(--system-ui);
     transition: .4s all cubic-bezier(0.075, 0.82, 0.165, 1);
